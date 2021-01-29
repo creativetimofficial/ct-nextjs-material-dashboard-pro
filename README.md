@@ -2,7 +2,7 @@
 
 
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-nextjs-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-nextjs-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-nextjs-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues-react?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/material-dashboard) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-1.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-nextjs-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-nextjs-material-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-nextjs-material-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro/issues-react?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/material-dashboard) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nextjs-material-dashboard-pro/nextjs-material-dashboard-pro.jpg)
 
@@ -429,7 +429,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2020 Creative Tim (https://www.creative-tim.com)
+- Copyright 2021 Creative Tim (https://www.creative-tim.com)
 - Creative Tim [license](https://www.creative-tim.com/license)
 
 ## Useful Links
