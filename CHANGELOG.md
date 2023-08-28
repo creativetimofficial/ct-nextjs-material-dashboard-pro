@@ -4,6 +4,13 @@
 - Fix installation issue
 - Replaced `react-quill` with `react-draft-wysiwyg`
 
+## [2.1.0] 2023-03-16
+
+- Migration to React 18
+- Migration to Next.JS 13
+- Update all dependencies
+- Fix the installation issue
+
 ## [2.0.0] 2022-03-12
 
 ### Bug fixing
