@@ -1,3 +1,10 @@
+## [2.2.0] 2023-10-18
+
+- Upgrade to NextJS 13
+- Upgrade to React 18
+- Upgrade `Chart.js` to `v4.4.0`
+- Upgrade `react-chartjs-2` to `v5.2.0`
+
 ## [2.1.1] 2023-08-23
 
 - Update dependencies
